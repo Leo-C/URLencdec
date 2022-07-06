@@ -29,7 +29,7 @@ options:
 
 ## Build
 **Prerequisites**:
-* Install of [PyInstaller](https://pyinstaller.org/en/stable/)
+* Install [PyInstaller](https://pyinstaller.org/en/stable/)
 
 To build an executable, launch following commands:  
 * **Windows**: `pyinstaller --noupx --clean --onefile --icon=build\URLencdec.ico --console src\URLencdec.py`
